@@ -11,8 +11,7 @@
 
 
 ### "The world rewards audacity, not potential. Be audacious, be bold, be you, show the world who you are." 
-
-
+<img src="assets/martySupreme.jpeg" width="200">
 
 
 ---
