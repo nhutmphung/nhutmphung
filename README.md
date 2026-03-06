@@ -13,7 +13,7 @@
 ![Sam Sulek](assets/samSulek3.gif)
 
 ### "To love the process, rather than love the result." 
-![Sam Sulek](assets/samSulek3.gif)
+![One Piece](assets/onePiece.gif)
 
 
 ---
