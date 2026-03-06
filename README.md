@@ -5,15 +5,15 @@
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Electrical%20Engineering%20@%20UTA&fontSize=50)
 
 ## About me: 
-### -Meat head full time, engineer part time 
-![Sam Sulek](assets/samSulek2.gif)     ![Sam Sulek](assets/samSulek3.gif)     
-
-
-
-
 
 ### "The world rewards audacity, not potential. Be audacious, be bold, be you, show the world who you are." 
 <img src="assets/martySupreme.jpeg" width="300">
+
+### "Full time meat head, part time engineer." 
+![Sam Sulek](assets/samSulek3.gif)
+
+### "To love the process, rather than love the result." 
+![Sam Sulek](assets/samSulek3.gif)
 
 
 ---
