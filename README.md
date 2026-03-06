@@ -36,7 +36,5 @@ Industry Experience Software
 
 ![Top Langs](./profile/top-langs.svg)
 
-![Snake Animation](https://raw.githubusercontent.com/nhutmphung/nhutmphung/output/github-contribution-grid-snake.svg)
-
 ---
 
