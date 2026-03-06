@@ -16,10 +16,18 @@
 
 ---
 
-### 🛠️ *Current Tech Stack and Software I Use Day to Day* 🛠️
+### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
+Programming Languages ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+
+Modeling & Hardware Tools
+
+
+Developer Tools
+
+Industry Experience Software
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Stats](./profile/stats.svg)
 
