@@ -1,10 +1,10 @@
 # Nhut Phung 🥜
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Junior%20EE%20@%20UTA&fontSize=30)
 
 ## *About me*: 
 
-### "The world rewards audacity, not potential. Be audacious, be bold, be you, show the world who you are." 
+### "The world rewards audacity, not potential.  
 <img src="assets/martySupreme.jpeg" width="300">
 
 ### "Full time meat head, part time engineer." 
