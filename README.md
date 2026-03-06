@@ -1,8 +1,8 @@
-# Hey, I'm Nhut 🥜
+# Nhut Phung 🥜
 
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
 
-## **About me**: 
+## *About me*: 
 
 ### "The world rewards audacity, not potential. Be audacious, be bold, be you, show the world who you are." 
 <img src="assets/martySupreme.jpeg" width="300">
@@ -16,17 +16,17 @@
 
 ---
 
-### 🛠️ **Current Tech Stack and Software I Use Day to Day**
+### 🛠️ *Current Tech Stack and Software I Use Day to Day* 🛠️
 ---
 
 ### 📊 GitHub Stats
 
 ![Snake Animation](https://raw.githubusercontent.com/nhutmphung/nhutmphung/output/github-contribution-grid-snake.svg)
 
+![Stats](./github/workflows/stats.svg)
+
+
+![Top Langs](./profile/top-langs.svg)
+
 ---
 
-### 🕹️ Just for Fun
-- ⛏️ **Minecraft Enthusiast**
-- 🥋 **Sambo & Combat Sports**
-- ⛰️ **National Park Hiker**
- 
