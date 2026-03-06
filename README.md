@@ -1,8 +1,8 @@
-# Hey, I'm Nhut 
+# Hey, I'm Nhut 🥜
 
-## Current Junior in EE at Univeristy of Texas at Arlington 
+## Current Junior in Electrical Engineer⚡at Univeristy of Texas at Arlington 
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Electrical%20Engineering%20@%20UTA&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Electrical%20Engineering%20@%20UTA&fontSize=50)
 
 ## About me: 
 
