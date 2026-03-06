@@ -5,13 +5,14 @@
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Electrical%20Engineering%20@%20UTA&fontSize=50)
 
 ## About me: 
-### Life long sidequestmaxxing 
+### -Life long learning
+
 
 
 
 
 ### "The world rewards audacity, not potential. Be audacious, be bold, be you, show the world who you are." 
-<img src="assets/martySupreme.jpeg" width="200">
+<img src="assets/martySupreme.jpeg" width="300">
 
 
 ---
