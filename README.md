@@ -19,7 +19,7 @@
 ### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
 Programming Languages
 
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)  ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)
 
 Modeling & Hardware Tools
 
