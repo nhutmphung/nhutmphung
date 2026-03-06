@@ -5,7 +5,8 @@
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Electrical%20Engineering%20@%20UTA&fontSize=50)
 
 ## About me: 
-### -Life long learning
+### -Meat head full time, engineer part time 
+![Sam Sulek](assets/samSulek2.gif)
 
 
 
