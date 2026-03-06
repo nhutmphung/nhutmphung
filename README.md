@@ -1,6 +1,5 @@
 # Nhut Phung 🥜
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Junior%20EE%20@%20UTA&fontSize=30)
 
 ## *About me*: 
 
