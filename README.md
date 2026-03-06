@@ -6,7 +6,7 @@
 
 ## About me: 
 ### -Meat head full time, engineer part time 
-![Sam Sulek](assets/samSulek2.gif)
+![Sam Sulek](assets/samSulek2.gif)     ![Sam Sulek](assets/samSulek3.gif)     
 
 
 
