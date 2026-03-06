@@ -1,12 +1,19 @@
-# Hi there! I'm Nhut 👋 
+# Hey, I'm Nhut 
+
+## Current Junior in EE at Univeristy of Texas at Arlington 
 
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Electrical%20Engineering%20@%20UTA&fontSize=50)
 
-### 🚀 About Me
-- 🎓 **Student:** Junior Electrical Engineering @ The University of Texas at Arlington
-- 💼 **Current:** Manufacturing Intern @ **Siemens**
-- 🛠️ **Interests:** Embedded Systems, Bare-metal Programming (STM32/ESP32), & Computer Architecture
-- 🤖 **Fun Project:** I run a Discord job-finder bot on a Raspberry Pi!
+## About me: 
+### Life long sidequestmaxxing 
+
+
+
+
+### "The world rewards audacity, not potential. Be audacious, be bold, be you, show the world who you are." 
+
+
+
 
 ---
 
