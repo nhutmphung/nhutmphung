@@ -21,12 +21,12 @@
 
 ### 📊 GitHub Stats
 
-![Snake Animation](https://raw.githubusercontent.com/nhutmphung/nhutmphung/output/github-contribution-grid-snake.svg)
-
-![Stats](./github/workflows/stats.svg)
+![Stats](./profile/stats.svg)
 
 
 ![Top Langs](./profile/top-langs.svg)
+
+![Snake Animation](https://raw.githubusercontent.com/nhutmphung/nhutmphung/output/github-contribution-grid-snake.svg)
 
 ---
 
