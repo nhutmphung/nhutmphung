@@ -3,7 +3,7 @@
 
 ## *About me*: 
 
-### "The world rewards audacity, not potential.  
+### "The world rewards audacity, not potential."  
 <img src="assets/martySupreme.jpeg" width="300">
 
 ### "Full time meat head, part time engineer." 
