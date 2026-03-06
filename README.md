@@ -1,6 +1,6 @@
 # Hey, I'm Nhut 🥜
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=JuniorEE%20@%20UTA&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
 
 ## About me: 
 
