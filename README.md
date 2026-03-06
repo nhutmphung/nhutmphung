@@ -29,7 +29,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[nhutmphung]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhutmphung&show_icons=true&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutmphung&layout=compact&theme=radical)[nhutmphung]&layout=compact&theme=radical)
 
 ![Snake Animation](https://raw.githubusercontent.com/nhutmphung/nhutmphung/output/github-contribution-grid-snake.svg)
