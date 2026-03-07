@@ -35,5 +35,18 @@ Industry Experience Software
 
 ![Top Langs](./profile/top-langs.svg)
 
+### 📊 GitHub Activity Summary
+
+<p align="center">
+  <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="100%" />
+  <br />
+  <img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/dark/2-most-commit-language.svg" width="49%" />
+  <br />
+  <img src="./profile-summary-card-output/dark/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/dark/4-commits-per-day.svg" width="49%" />
+</p>
+
+
 ---
 
