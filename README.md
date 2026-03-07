@@ -30,12 +30,6 @@ Industry Experience Software
 
 ### GitHub Stats
 
-![Stats](./profile/stats.svg)
-
-
-![Top Langs](./profile/top-langs.svg)
-
-### 📊 GitHub Activity Summary
 
 <p align="center">
   <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="100%" />
