@@ -1,5 +1,5 @@
 # Nhut Phung 🥜
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Junior%20EE%20@%20UTA&fontSize=20)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
 
 
 ## [![About Me](https://img.shields.io/badge/About%20Me-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me)
