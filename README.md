@@ -14,6 +14,7 @@
 ![One Piece](assets/onePiece.gif)
 
 ### "Until death, all defeat is psychological." 
+![Vagabond](assets/vagabond-climber.gif)
 
 ---
 
