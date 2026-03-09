@@ -18,13 +18,21 @@
 ### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
 **Programming Languages**
 
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Modeling & Hardware Tools**
-
+![Fusion 360](https://img.shields.io/badge/Fusion_360-%23FF7500.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad 8.0](https://img.shields.io/badge/KiCad_8.0-%2331409E.svg?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-%23A52A2A.svg?style=for-the-badge&logo=altium&logoColor=white)
+![Cadence Allegro](https://img.shields.io/badge/Cadence_Allegro-%23FF0000.svg?style=for-the-badge&logo=cadence&logoColor=white)
 
 **Developer Tools**
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ---
 
