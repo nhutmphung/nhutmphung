@@ -17,11 +17,11 @@
 ---
 
 ### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
-**Programming Languages**
+**Programming Languages** 🖥️
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Modeling & Hardware Tools**
+**Modeling & Hardware Tools** 🔋
 
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-%23FF7500.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 ![KiCad 8.0](https://img.shields.io/badge/KiCad_8.0-%2331409E.svg?style=for-the-badge&logo=kicad&logoColor=white)
@@ -29,7 +29,7 @@
 ![Cadence Allegro](https://img.shields.io/badge/Cadence_Allegro-%23FF0000.svg?style=for-the-badge&logo=cadence&logoColor=white)
 ![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-%23005A9C.svg?style=for-the-badge&logo=altium&logoColor=white)
 
-**Developer Tools**
+**Developer Tools** ⚙️
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![STM32CudeIDE](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
