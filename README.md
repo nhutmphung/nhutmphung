@@ -4,8 +4,8 @@
 
 ## *About me*: https://nhutmphung.me
 
-## **Current Project**
-
+## *Current Project:*   [![Active-Noise-Cancellation-ANC Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=nhutmphung&repo=Active-Noise-Cancellation-ANC&theme=radical)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC)
+ 
 ---
 
 ### "The world rewards audacity, not potential."  
