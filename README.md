@@ -48,13 +48,13 @@
 
 
 <p align="center">
-  <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="100%" />
+  <img src="./profile-summary-card-output/dark/0-profile-details.svg" width="50%" />
   <br />
-  <img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="49%" />
-  <img src="./profile-summary-card-output/dark/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/dark/1-repos-per-language.svg" width="29%" />
+  <img src="./profile-summary-card-output/dark/2-most-commit-language.svg" width="29%" />
   <br />
-  <img src="./profile-summary-card-output/dark/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/dark/4-commits-per-day.svg" width="49%" />
+  <img src="./profile-summary-card-output/dark/3-stats.svg" width="29%" />
+  <img src="./profile-summary-card-output/dark/4-commits-per-day.svg" width="29%" />
 </p>
 
 
