@@ -10,7 +10,7 @@
 ### "The world rewards audacity, not potential."  
 <img src="assets/martySupreme.jpeg" width="300">
 
-### "To love the process, rather than love the result." 
+### "The man who loves walking will walk further than the man who loves the destination." 
 ![One Piece](assets/onePiece.gif)
 
 
