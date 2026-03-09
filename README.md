@@ -35,6 +35,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-E37B0D?style=for-the-badge&logo=PlatformIO&logoColor=white)
 
 ---
 
