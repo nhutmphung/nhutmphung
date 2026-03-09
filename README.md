@@ -13,6 +13,7 @@
 ### "The man who loves walking will walk further than the man who loves the destination." 
 ![One Piece](assets/onePiece.gif)
 
+### "A candle loses nothing by lighting another." 
 
 ---
 
