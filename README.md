@@ -1,12 +1,6 @@
 # Nhut Phung 🥜
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
 
-[![Active-Noise-Cancellation-ANC Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutmphung&repo=Active-Noise-Cancellation-ANC&theme=radical)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC)
-**Built With:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ## *About me*: https://nhutmphung.me
 
@@ -25,7 +19,7 @@
 ### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
 **Programming Languages**
 
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Modeling & Hardware Tools**
 
@@ -37,6 +31,7 @@
 **Developer Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![STM32CudeIDE](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white)
