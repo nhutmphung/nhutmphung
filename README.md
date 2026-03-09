@@ -1,7 +1,7 @@
 # Nhut Phung 🥜
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutmphung&repo=Active-Noise-Cancellation-ANC&theme=radical)](https://github.com/nhutmphung/YOUR_REPO_NAME)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutmphung&repo=Active-Noise-Cancellation-ANC-&theme=radical)](https://github.com/nhutmphung/YOUR_REPO_NAME)
 
 ## *About me*: https://nhutmphung.me
 
