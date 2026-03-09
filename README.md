@@ -16,6 +16,7 @@
 ### "Until death, all defeat is psychological." 
 ![Vagabond](assets/vagabond-climber.gif)
 
+
 ---
 
 ### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
