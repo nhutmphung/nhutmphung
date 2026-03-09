@@ -4,7 +4,18 @@
 
 ## *About me*: https://nhutmphung.me
 
-## *Current Project:*  [![ANC Project](./profile/anc-project.svg)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC)
+## *Current Project:*  <div align="center">
+
+### 🎙️ Featured Project: Active Noise Cancellation (ANC)
+
+| [Detailed Project Documentation](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC) | [View DSP Source Code](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC/tree/main/src) |
+| :--- | :--- |
+
+[![ANC Banner](https://img.shields.io/badge/Project-Active%20Noise%20Cancellation-00599C?style=for-the-badge&logo=github)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC)
+
+> **Core Tech:** `C++` • `MATLAB` • `STM32` • `Adaptive Filtering`
+
+</div>
  
 ---
 
