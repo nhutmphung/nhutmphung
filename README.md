@@ -10,9 +10,6 @@
 ### "The world rewards audacity, not potential."  
 <img src="assets/martySupreme.jpeg" width="300">
 
-### "Full time meat head, part time engineer." 
-![Sam Sulek](assets/samSulek3.gif)
-
 ### "To love the process, rather than love the result." 
 ![One Piece](assets/onePiece.gif)
 
