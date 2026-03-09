@@ -4,8 +4,7 @@
 
 ## *About me*: https://nhutmphung.me
 
-## *Current Project:*  
-[![ANC Banner](https://img.shields.io/badge/Current%20Project-Active%20Noise%20Cancellation-00599C?style=for-the-badge&logo=github)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC-)
+## [![ANC Banner](https://img.shields.io/badge/Current%20Project-Active%20Noise%20Cancellation-00599C?style=for-the-badge&logo=github)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC-)
 
 ---
 
