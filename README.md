@@ -30,6 +30,7 @@
 ![KiCad 8.0](https://img.shields.io/badge/KiCad_8.0-%2331409E.svg?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-%23A52A2A.svg?style=for-the-badge&logo=altium&logoColor=white)
 ![Cadence Allegro](https://img.shields.io/badge/Cadence_Allegro-%23FF0000.svg?style=for-the-badge&logo=cadence&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Quartus_Prime-%23A52A2A.svg?style=for-the-badge&logo=altium&logoColor=white)
 
 **Developer Tools**
 
