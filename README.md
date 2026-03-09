@@ -8,7 +8,7 @@
 ---
 
 ### "The world rewards audacity, not potential."  
-<img src="assets/martySupreme.jpeg" width="300">
+<img src="assets/martySupreme.jpeg" width="400">
 
 ### "The man who loves walking will walk further than the man who loves the destination." 
 ![One Piece](assets/onePiece.gif)
