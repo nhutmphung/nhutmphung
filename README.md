@@ -4,7 +4,7 @@
 
 ## *About me*: https://nhutmphung.me
 
-## **Current Project:**
+## **Current Project**
 
 ---
 
