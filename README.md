@@ -2,6 +2,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
 
 [![Active-Noise-Cancellation-ANC Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutmphung&repo=Active-Noise-Cancellation-ANC&theme=radical)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC)
+**Built With:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ## *About me*: https://nhutmphung.me
 
