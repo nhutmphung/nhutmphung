@@ -4,7 +4,7 @@
 
 ## *About me*: https://nhutmphung.me
 
-## ** Current Project: ** [![Active-Noise-Cancellation-ANC Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutmphung&repo=Active-Noise-Cancellation-ANC&theme=radical)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC)
+## **Current Project:**
 
 ---
 
