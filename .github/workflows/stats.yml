@@ -29,6 +29,14 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate ANC Repo Card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: pin
+          options: 'username=nhutmphung&repo=Active-Noise-Cancellation-ANC&theme=radical'
+          path: profile/anc-project.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and Push
         run: |
           git config --local user.name "github-actions[bot]"
