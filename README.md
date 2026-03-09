@@ -16,16 +16,16 @@
 ---
 
 ### 🛠️ *Current Tech Stack and Software I'm using/learning* 🛠️
-Programming Languages
+**Programming Languages**
 
 ![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VBA](https://img.shields.io/badge/VBA-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)  ![Verilog](https://img.shields.io/badge/Verilog-%23005A9C.svg?style=for-the-badge&logo=ieee&logoColor=white)
 
-Modeling & Hardware Tools
+**Modeling & Hardware Tools**
 
 
-Developer Tools
+**Developer Tools**
 
-Industry Experience Software
+
 ---
 
 ### GitHub Stats
