@@ -7,6 +7,8 @@
 </div>
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nhut%20Phung&fontSize=70&fontColor=fff&animation=twinkling&desc=Electrical%20Engineer&descSize=25&descAlignY=62&fontAlignY=40)
+
 
 ## 
 [![About Me](https://img.shields.io/badge/About%20Me-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me) 
