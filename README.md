@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=wavy&color=007acc&height=200&section=header&text=Nhut%20Phung&fontSize=70&subText=Junior%20EE%20@%20UTA&subTextSize=25)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=007acc&height=200&section=header&text=Nhut%20Phung&fontSize=70&subText=Junior%20EE%20@%20UTA&subTextSize=25" />
+</p>
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=100&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation)
 
