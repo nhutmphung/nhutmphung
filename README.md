@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=300&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50&width=900"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=2500&pause=1200&color=87CEEB&center=true&vCenter=true&width=1000&height=150&cursor=|&lines=Junior+Electrical+Engineer;Embedded+Systems+Developer;Signal+Processing;Active+Noise+Cancellation"/>
 
