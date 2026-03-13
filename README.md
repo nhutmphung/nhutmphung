@@ -5,7 +5,11 @@
 </div>
 
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=100&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation)
+<div align="center">
+
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&height=120&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation)
+
+</div>
 
 
 ## [![About Me](https://img.shields.io/badge/About%20Me-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me)
