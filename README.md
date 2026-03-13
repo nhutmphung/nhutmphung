@@ -6,6 +6,67 @@
 
 </div>
 
+<div align="center">
+
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="1200" height="220" fill="#0f172a"/>
+
+<!-- Circuit traces -->
+<g stroke="#38bdf8" stroke-width="2" fill="none">
+
+<path d="M0 60 H250 V120 H500 V80 H750 V150 H1200">
+  <animate attributeName="stroke-dashoffset"
+           values="1000;0"
+           dur="6s"
+           repeatCount="indefinite"/>
+</path>
+
+<path d="M0 150 H300 V90 H600 V140 H900 V70 H1200">
+  <animate attributeName="stroke-dashoffset"
+           values="1000;0"
+           dur="8s"
+           repeatCount="indefinite"/>
+</path>
+
+</g>
+
+<!-- Signal pulses -->
+<circle cx="250" cy="60" r="4" fill="#7dd3fc">
+  <animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="500" cy="150" r="4" fill="#7dd3fc">
+  <animate attributeName="cx" values="0;1200" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Text -->
+<text x="600" y="110"
+      text-anchor="middle"
+      fill="white"
+      font-size="48"
+      font-family="Fira Code, monospace"
+      font-weight="bold">
+
+Nhut Phung
+
+</text>
+
+<text x="600" y="150"
+      text-anchor="middle"
+      fill="#7dd3fc"
+      font-size="22"
+      font-family="Fira Code, monospace">
+
+Electrical Engineer
+
+</text>
+
+</svg>
+
+</div>
+
 
 ## 
 [![About Me](https://img.shields.io/badge/About%20Me-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me) 
