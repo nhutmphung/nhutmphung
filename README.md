@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50&width=900"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&height=120&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation"/>
 
 </div>
-
-
-<div align="center">
-
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&height=120&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation)
-
-</div>
-
-
 ## [![About Me](https://img.shields.io/badge/About%20Me-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me)
 ## [![ANC Banner](https://img.shields.io/badge/Current%20Project-Active%20Noise%20Cancellation-00599C?style=for-the-badge&logo=github)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC-)
 
