@@ -1,5 +1,9 @@
-# [Nhut Phung](https://github.com/NhutPhung)
-![EE Banner](https://img.shields.io/badge/Junior%20EE%20@%20UTA-007acc?style=for-the-badge&logo=utah-jazz&logoColor=white)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50"/>
+
+</div>
+
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=100&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation)
 
