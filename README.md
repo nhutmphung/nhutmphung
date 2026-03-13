@@ -12,8 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhut-phung/) 
 [![Email](https://img.shields.io/badge/Email-Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhutmphung.com) 
 [![ANC Banner](https://img.shields.io/badge/Current%20Project-Active%20Noise%20Cancellation-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC-)
----
 
+---
 ### "The world rewards audacity, not potential."  
 <img src="assets/martySupreme.jpeg" width="400">
 
