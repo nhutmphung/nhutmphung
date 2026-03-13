@@ -7,55 +7,10 @@
 </div>
 
 
+<p align="center">
+  <img src="./assets/header.svg" width="900">
+</p>
 
-<div align="center">
-![Header](./assets/header.svg)
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
-
-<!-- Background -->
-<rect width="900" height="220" fill="#0f172a"/>
-
-<!-- Circuit lines -->
-<g stroke="#38bdf8" stroke-width="2" fill="none" stroke-dasharray="6 6">
-  <line x1="0" y1="60" x2="900" y2="60">
-    <animate attributeName="stroke-dashoffset" from="100" to="0" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <line x1="0" y1="120" x2="900" y2="120">
-    <animate attributeName="stroke-dashoffset" from="100" to="0" dur="4s" repeatCount="indefinite"/>
-  </line>
-  <line x1="0" y1="180" x2="900" y2="180">
-    <animate attributeName="stroke-dashoffset" from="100" to="0" dur="5s" repeatCount="indefinite"/>
-  </line>
-</g>
-
-<!-- Nodes -->
-<g fill="#7dd3fc">
-  <circle cx="150" cy="60" r="4"/>
-  <circle cx="350" cy="120" r="4"/>
-  <circle cx="650" cy="180" r="4"/>
-</g>
-
-<!-- Text -->
-<text x="450" y="105"
-      text-anchor="middle"
-      fill="white"
-      font-size="48"
-      font-family="Fira Code, monospace"
-      font-weight="bold">
-Nhut Phung
-</text>
-
-<text x="450" y="145"
-      text-anchor="middle"
-      fill="#7dd3fc"
-      font-size="22"
-      font-family="Fira Code, monospace">
-Electrical Engineer
-</text>
-
-</svg>
-
-</div>
 
 
 
