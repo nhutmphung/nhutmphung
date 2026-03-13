@@ -1,6 +1,5 @@
 # Nhut Phung 🥜
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Junior%20EE%20@%20UTA&fontSize=50)
-
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=100&lines=Junior+EE+@+UTA;Electrical+Engineering;Active+Noise+Cancellation)
 
 ## [![About Me](https://img.shields.io/badge/About%20Me-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me)
 ## [![ANC Banner](https://img.shields.io/badge/Current%20Project-Active%20Noise%20Cancellation-00599C?style=for-the-badge&logo=github)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC-)
