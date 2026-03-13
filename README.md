@@ -7,12 +7,6 @@
 </div>
 
 
-<p align="center">
-  <img src="./assets/background.svg" width="900">
-</p>
-
-
-
 
 ## 
 [![About Me](https://img.shields.io/badge/About%20Me-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me) 
