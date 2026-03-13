@@ -7,7 +7,7 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nhut%20Phung&fontSize=70&fontColor=fff&animation=twinkling&desc=Electrical%20Engineer&descSize=25&descAlignY=62&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,9&height=250&section=header&text=Nhut%20Phung&fontSize=70&fontColor=fff&animation=twinkling&desc=Electrical%20Engineer&descSize=25&descAlignY=62&fontAlignY=40)
 
 
 ## 
