@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50&width=900"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=300&section=header&text=Nhut%20Phung&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineer&descAlignY=55&descAlign=50&width=900"/
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&duration=2500&pause=1200&color=87CEEB&center=true&vCenter=true&width=1000&height=150&cursor=|&lines=Junior+Electrical+Engineer;Embedded+Systems+Developer;Signal+Processing;Active+Noise+Cancellation"/>
 
 </div>
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,20&height=250&section=header&text=Nhut%20Phung&fontSize=70&fontColor=fff&animation=twinkling&desc=Electrical%20Engineer&descSize=25&descAlignY=62&fontAlignY=40)
 
 
 ## 
