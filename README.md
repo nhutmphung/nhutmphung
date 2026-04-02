@@ -19,9 +19,6 @@
 ### "The man who loves walking will walk further than the man who loves the destination." 
 ![One Piece](assets/onePiece.gif)
 
-### "Until death, all defeat is psychological." 
-![FMAB](assets/fmab.gif)
-
 ### "A candle doesn't lose it's light by lighting another." 
 ![DrStone](assets/senku.gif)
 
