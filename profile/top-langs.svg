@@ -160,17 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="136.59"
-          height="8"
-          fill="#3572A5"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="136.59"
-          y="0"
-          width="109.76"
+          width="151.58"
           height="8"
           fill="#555555"
         />
@@ -178,9 +168,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.35"
+          x="151.58"
           y="0"
-          width="11.57"
+          width="94.71"
+          height="8"
+          fill="#3572A5"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="246.29"
+          y="0"
+          width="11.91"
           height="8"
           fill="#427819"
         />
@@ -188,19 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.92"
+          x="248.20"
           y="0"
-          width="10.75"
-          height="8"
-          fill="#e34c26"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="248.67"
-          y="0"
-          width="10.69"
+          width="10.73"
           height="8"
           fill="#6E4C13"
         />
@@ -208,44 +198,54 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.37"
+          x="248.93"
           y="0"
-          width="10.63"
+          width="10.55"
           height="8"
           fill=""
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.48"
+          y="0"
+          width="10.52"
+          height="8"
+          fill="#e34c26"
         />
       
     
   <g transform="translate(0, 25)">
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 54.64%</text>
+      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">C 60.63%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#555555" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">C 43.90%</text>
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 37.88%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#427819" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Makefile 0.63%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Makefile 0.76%</text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 900ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 0.30%</text>
+      <circle cx="5" cy="6" r="5" fill="#6E4C13" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Assembly 0.29%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 1050ms">
-      <circle cx="5" cy="6" r="5" fill="#6E4C13" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Assembly 0.28%</text>
+      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Linker Script 0.22%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 1200ms">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Linker Script 0.25%</text>
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 0.21%</text>
     </g>
   </g></g>
   </g>
