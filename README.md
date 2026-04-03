@@ -7,7 +7,6 @@
 
 
 ## 
-[![About Me](https://img.shields.io/badge/About%20Me-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nhutmphung.me) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhut-phung/)
 [![Email](https://img.shields.io/badge/Email-Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhutmphung@gmail.com) 
 [![ANC Banner](https://img.shields.io/badge/Current%20Project-ANC-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhutmphung/Active-Noise-Cancellation-ANC-)
